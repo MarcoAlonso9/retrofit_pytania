@@ -1,0 +1,32 @@
+{
+  "pytania":[
+    {
+      "tresc":"Jaka jest stolica Japoni?",
+      "odp_a":"Jokohama",
+      "odp_b":"Tokio",
+      "odp_c":"Osaka",
+      "poprawna":1
+    },
+    {
+      "tresc":"Jaka jest stolica Czech?",
+      "odp_a":"Ostrawa",
+      "odp_b":"Brno",
+      "odp_c":"Praga",
+      "poprawna":2
+    },
+    {
+      "tresc":"Jaka jest stolica Egiptu?",
+      "odp_a":"Giza",
+      "odp_b":"Kair",
+      "odp_c":"Hurghada",
+      "poprawna":1
+    },
+    {
+      "tresc":"Jaka jest stolica Brazyli?",
+      "odp_a":"Brasilia",
+      "odp_b":"Sao Paulo",
+      "odp_c":"Rio de Janeiro",
+      "poprawna":0
+    }
+  ]
+}
