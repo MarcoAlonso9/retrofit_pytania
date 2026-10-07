@@ -1,5 +1,4 @@
-{
-  "pytania":[
+[
     {
       "tresc":"Jaka jest stolica Japoni?",
       "odp_a":"Jokohama",
@@ -28,5 +27,4 @@
       "odp_c":"Rio de Janeiro",
       "poprawna":0
     }
-  ]
-}
+]
